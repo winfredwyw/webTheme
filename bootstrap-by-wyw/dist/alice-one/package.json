@@ -1,0 +1,62 @@
+{
+  "name": "alice-one",
+  "version": "1.3.0",
+  "description": "alice all in one",
+  "keywords": [
+    "style"
+  ],
+  "homepage": "http://aliceui.org/",
+  "author": {
+    "name": "偏右",
+    "email": "xingmin.zhu@alipay.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliceui/one"
+  },
+  "bugs": {
+    "url": "https://github.com/aliceui/one/issues"
+  },
+  "license": "MIT",
+  "spm": {},
+  "main": "index.css",
+  "dependencies": {
+    "alice-base": "1.1.0",
+    "alice-box": "1.2.0",
+    "alice-animate": "2.2.0",
+    "alice-grid": "1.1.0",
+    "alice-iconfont": "1.1.0",
+    "alice-button": "1.3.0",
+    "alice-list": "1.1.0",
+    "alice-loading": "1.1.0",
+    "alice-button-dropdown": "1.3.0",
+    "alice-form": "1.1.0",
+    "alice-nav": "1.1.0",
+    "alice-paging": "1.1.0",
+    "alice-table": "1.2.0",
+    "alice-poptip": "1.3.0",
+    "alice-tab": "1.1.0",
+    "alice-tipbox": "1.2.0",
+    "alice-select": "1.1.0",
+    "alice-step": "1.1.0",
+    "alice-tiptext": "1.3.0"
+  },
+  "devDependencies": {
+    "spm-webpack": "~1.0.0"
+  },
+  "scripts": {
+    "build": "spm-webpack -c"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "publishConfig": {},
+  "readme": "# one\n\n---\n\nalice 模块集合。\n",
+  "readmeFilename": "README.md",
+  "_id": "alice-one@1.3.0",
+  "dist": {
+    "shasum": "c5f46f0bd787ccef0c176d8465790b574ea8a370"
+  },
+  "_from": "alice-one@",
+  "_resolved": "https://registry.npmjs.org/alice-one/-/alice-one-1.3.0.tgz"
+}
